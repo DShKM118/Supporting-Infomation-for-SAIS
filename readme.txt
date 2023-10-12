@@ -1,0 +1,1 @@
+This is a program based on Julia 1.9.0 language. To run this demo, you need to install Julia language and the following packages: Pkg, LinearAlgebra, FFTW, DataStructures, and MAT. Then, replace the "PATH" in SAIS_demo.jl with the path where you have installed these packages.
