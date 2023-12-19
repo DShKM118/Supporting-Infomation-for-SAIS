@@ -4,6 +4,8 @@ using LinearAlgebra
 using FFTW
 using DataStructures
 using MAT
+using CairoMakie
+using MakiePublication
 
 function read_structure_detail(filename)
     mat = matopen(filename)
